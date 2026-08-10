@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como trabalho final da disciplina de `Desenvolvime
 
 O trabalho abordou diferentes etapas do processo de desenvolvimento de uma PCB, incluindo:
 
-definição das características e requisitos da placa;
+Definição das características e requisitos da placa;
 escolha de componentes e materiais;
 posicionamento de componentes;
 desenvolvimento do layout e roteamento das trilhas;
