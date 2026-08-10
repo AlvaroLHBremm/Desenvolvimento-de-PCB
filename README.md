@@ -1,4 +1,4 @@
-3 Desenvolvimento de PCB para amplificador de audio
+# Desenvolvimento de PCB para amplificador de audio
 
 Este projeto foi desenvolvido como trabalho final da disciplina de `Desenvolvimento de Placas de Circuito Impresso`, com o objetivo de aplicar os principais conceitos envolvidos no desenvolvimento comercial e industrial de placas de circuito impresso (PCIs).
 
