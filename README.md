@@ -32,9 +32,7 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
 
 ### Descrição
 
-
-
-
+Amplificador de audio mono.
 
 <p align="center"> 
   <span>
@@ -45,6 +43,3 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
 </p>
 
 
-
-<p align="center"> <img src="figs/placa.png" alt="diagrama" width="75%"></p>
-<p align="center"><b>Placa finalazida</b></p>
