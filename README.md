@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como trabalho final da disciplina de `Desenvolvimento de Placas de Circuito Impresso`, com o objetivo de aplicar os principais conceitos envolvidos no desenvolvimento comercial e industrial de placas de circuito impresso (PCIs).
 
 O trabalho abordou diferentes etapas do processo de desenvolvimento de uma PCB, incluindo:
-
+<!--
 * Definição das características e requisitos da placa;
 * escolha de componentes e materiais;
 * posicionamento de componentes;
@@ -12,14 +12,16 @@ O trabalho abordou diferentes etapas do processo de desenvolvimento de uma PCB, 
 * critérios relacionados à produção industrial;
 * identificação de possíveis falhas de projeto e problemas durante o processo de fabricação.
 
-<!-- [Imagem de exemplo do processo de fabricação da placa] -->
+-->
+
+A definição dos requisitos da placa e escolha de componentes são fatores vistos durante a disciplina tão como em diversas outras, mas não foram abordadas no projeto final devido ao foco da disciplina. O qual era o desenvolvimento da placa de circuito impresso, e não o projeto do circuito eletrônico em si, o professor disponibilizou diferentes circuitos que poderiam ser utilizados como base. Também era permitido utilizar um circuito desenvolvido anteriormente pelo próprio estudante, desde que previamente aprovado.
 
 <p align="center"> <img src="figs/processo.png" alt="diagrama" width="75%"></p>
 <p align="center"><b>Processos de fabricação</b></p>
 
 ### Objetivo
 
-Como o foco da disciplina era o desenvolvimento da placa de circuito impresso, e não o projeto do circuito eletrônico em si, o professor disponibilizou diferentes circuitos que poderiam ser utilizados como base. Também era permitido utilizar um circuito desenvolvido anteriormente pelo próprio estudante, desde que previamente aprovado.
+
 
 Para este projeto, foi escolhido um amplificador de áudio desenvolvido durante a disciplina de `Eletrônica Analógica 2`.
 
@@ -33,6 +35,14 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
 ### Descrição
 
 Amplificador de audio mono.
+
+1 - Conector de alimentação simétrica e LED de estado.
+2 - Conector estereo de entrada de audio.
+3 - Conector de saida para caixa de som.
+4 - Circuito amplificador.
+5 - Filtro capacitivo de entrada.
+
+algumas dessas divisões se devem ao foto do circuito inteiro ser horizontalmente extenso, fazendo com que regiões como o filtro capacitivo e conextor de saida fossem separadas.
 
 <p align="center"> 
   <span>
