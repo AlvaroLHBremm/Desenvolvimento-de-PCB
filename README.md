@@ -14,7 +14,7 @@ O trabalho abordou diferentes etapas do processo de desenvolvimento de uma PCB, 
 
 <!-- [Imagem de exemplo do processo de fabricação da placa] -->
 
-<p align="center"> <img src="figs/processo.png" alt="diagrama" width="100%"></p>
+<p align="center"> <img src="figs/processo.png" alt="diagrama" width="75%"></p>
 <p align="center"><b>Processos de fabricação</b></p>
 
 ### Objetivo
@@ -23,11 +23,22 @@ Como o foco da disciplina era o desenvolvimento da placa de circuito impresso, e
 
 Para este projeto, foi escolhido um amplificador de áudio desenvolvido durante a disciplina de `Eletrônica Analógica 2`.
 
-Na disciplina original, devido à greve e à consequente redução do semestre letivo, não foi possível concluir o projeto e a fabricação da PCB do amplificador. O circuito foi implementado e testado apenas em protoboard.
-
 <p align="center"> <img src="figs/esquematico.png" alt="diagrama" width="100%"></p>
 <p align="center"><b>esquemático</b></p>
 
+Na disciplina original, devido à greve e à consequente redução do semestre letivo, não foi possível concluir o projeto e a fabricação da PCB do amplificador. O circuito foi implementado e testado apenas em protoboard.
+
 Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Impresso também permitiu complementar o trabalho anterior, desenvolvendo uma PCB dedicada para o amplificador e proporcionando experiência prática nas etapas de transformação de um circuito previamente testado em protoboard para uma placa de circuito impresso. 
 
-<!--[Imagem do circuito do amplificador] -->
+### Descrição
+
+
+
+
+
+<p align="center"> <img src="figs/roteamento.png" alt="diagrama" width="100%"></p>
+<p align="center"><b>roteamento</b></p>
+
+
+<p align="center"> <img src="figs/placa.png" alt="diagrama" width="100%"></p>
+<p align="center"><b>Placa finalazida</b></p>
