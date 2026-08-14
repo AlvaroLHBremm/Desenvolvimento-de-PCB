@@ -14,7 +14,7 @@ O trabalho abordou diferentes etapas do processo de desenvolvimento de uma PCB, 
 
 <!-- [Imagem de exemplo do processo de fabricação da placa] -->
 
-<p align="center"> <img src="figs/processos.png" alt="diagrama" width="100%"></p>
+<p align="center"> <img src="figs/processo.png" alt="diagrama" width="100%"></p>
 <p align="center"><b>Processos de fabricação</b></p>
 
 ### Objetivo
