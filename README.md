@@ -36,8 +36,12 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
 
 
 
-<p align="center"> <img src="figs/roteamento.png" alt="diagrama" width="75%"></p>
-<p align="center"><b>roteamento</b></p>
+<p align="center"> 
+  <img src="figs/roteamento.png" alt="diagrama" width="50%">
+  <img src="figs/placa.png" alt="diagrama" width="50%"></p>
+  <b>roteamento e placa finalizada</b>
+</p>
+
 
 
 <p align="center"> <img src="figs/placa.png" alt="diagrama" width="75%"></p>
