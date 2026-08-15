@@ -30,7 +30,7 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
 
 ### Descrição do projeto de amplificador
 
-Amplificador de audio mono, de 1 canal.
+<!-- Amplificador de audio mono, de 1 canal. -->
 
 
 ### Kickad
@@ -48,7 +48,7 @@ algumas dessas divisões se devem ao foto do circuito inteiro ser horizontalment
     <img src="figs/roteamento.png" alt="diagrama" width="49%">
     <img src="figs/placa.png" alt="diagrama" width="46%"></p>
   </span>
-  <b>roteamento e placa finalizada</b>
+  <b align="center">roteamento e placa finalizada</b>
 </p>
 
 
