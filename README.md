@@ -44,4 +44,6 @@ Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Im
   <b align="center">roteamento e placa finalizada</b>
 </p>
 
+[relatório final](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB/blob/main/relatorio/Relatorio.pdf)
+
 
