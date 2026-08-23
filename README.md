@@ -30,12 +30,11 @@ Na disciplina original, devido à greve e à consequente redução do semestre l
 Dessa forma, o projeto da disciplina de Desenvolvimento de Placas de Circuito Impresso também permitiu complementar o trabalho anterior, desenvolvendo uma PCB dedicada para o amplificador e proporcionando experiência prática nas etapas de transformação de um circuito previamente testado em protoboard para uma placa de circuito impresso. 
 
 ### divisões do circuito amplificador
-
-1 - Conector de alimentação simétrica e LED de estado.
-2 - Conector estereo de entrada de audio.
-3 - Conector de saida para caixa de som.
-4 - Circuito amplificador.
-5 - Filtro capacitivo de entrada.
+<br> 1 - Conector de alimentação simétrica e LED de estado.
+<br> 2 - Conector estereo de entrada de audio.
+<br> 3 - Conector de saida para caixa de som.
+<br> 4 - Circuito amplificador.
+<br> 5 - Filtro capacitivo de entrada.
 
 <p align="center"> 
   <span>
