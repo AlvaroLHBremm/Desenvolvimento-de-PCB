@@ -40,8 +40,8 @@ O conector jack de entrada possui distinção entre lado direito e esquerdo para
     <img src="figs/roteamento.png" alt="diagrama" width="49%">
     <img src="figs/placa.png" alt="diagrama" width="46%"></p>
   </span>
-  <b align="center">roteamento e placa finalizada</b>
 </p>
+<b align="center">Roteamento e placa finalizada</b>
 
 
 
